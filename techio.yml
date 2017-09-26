@@ -4,4 +4,4 @@ plan:
   statement: markdowns/welcome.md
 projects:
   terminal:
-    - runner: ubuntu
+    runner: ubuntu

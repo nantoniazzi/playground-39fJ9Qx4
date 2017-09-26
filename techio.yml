@@ -3,5 +3,5 @@ plan:
 - title: Welcome
   statement: markdowns/welcome.md
 projects:
-  "terminal"
+  "terminal":
     - runner: ubuntu
